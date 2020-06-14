@@ -99,11 +99,11 @@ class InfoBox extends StatelessWidget {
                         SizedBox(height: 8.0),
                         Text(
                           jumlahPositif,
-                          textScaleFactor: 1.2,
+                          textScaleFactor: 1.1,
                           style: TextStyle(
                             fontFamily: "Poppins Bold",
                             color: Colors.white,
-                            fontSize: device.height * 0.025,
+                            fontSize: device.height * 0.024,
                           ),
                         ),
                       ],
@@ -124,11 +124,11 @@ class InfoBox extends StatelessWidget {
                         SizedBox(height: 8.0),
                         Text(
                           jumlahSembuh,
-                          textScaleFactor: 1.2,
+                          textScaleFactor: 1.1,
                           style: TextStyle(
                             fontFamily: "Poppins Bold",
                             color: Colors.white,
-                            fontSize: device.height * 0.025,
+                            fontSize: device.height * 0.024,
                           ),
                         ),
                       ],
@@ -149,11 +149,11 @@ class InfoBox extends StatelessWidget {
                         SizedBox(height: 8.0),
                         Text(
                           jumlahMeninggal,
-                          textScaleFactor: 1.2,
+                          textScaleFactor: 1.1,
                           style: TextStyle(
                             fontFamily: "Poppins Bold",
                             color: Colors.white,
-                            fontSize: device.height * 0.025,
+                            fontSize: device.height * 0.024,
                           ),
                         ),
                       ],
